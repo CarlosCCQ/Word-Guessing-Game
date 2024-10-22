@@ -1,0 +1,2 @@
+#### Descripción general
+En este juego, el jugador debe adivinar una palabra secreta letra por letra. El juego mostrará el progreso del jugador, incluyendo las letras correctas adivinadas y letras faltantes. Se implementarán funcionalidades como selección de palabras, sistemas de pistas limitadas, y control de intentos fallidos.

@@ -16,3 +16,6 @@ class AdivinarPalabra:
 
     def progreso_actual(self):
         return ''.join([letra if letra in self.letras_adivinadas else '_' for letra in self.palabra])
+    
+    def todas_las_letras_adivinadas(self):
+        return all(letra in self.letras_adivinadas for letra in self.palabra)
